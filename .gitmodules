@@ -1,0 +1,6 @@
+[submodule "modules/dateomatic"]
+	path = modules/dateomatic
+	url = https://github.com/FantinBibas/dateomatic.git
+[submodule "modules/leetomatic"]
+	path = modules/leetomatic
+	url = https://github.com/FantinBibas/leetomatic.git
